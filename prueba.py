@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.svm import SVC
 
 # Cargar el conjunto de datos (ajusta la ruta a tu archivo CSV)
-df_all = pd.read_csv('diabetes1.csv')
+df_all = pd.read_csv('diabete1.csv')
 
 # Ejemplo de cómo podría verse df_all, descomenta y ajusta según sea necesario
 # df_all = pd.DataFrame({
